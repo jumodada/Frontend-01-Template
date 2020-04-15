@@ -7,7 +7,7 @@
 
 # 作业1:脑图
 
-https://imgchr.com/i/JC5a9A
+https://s1.ax1x.com/2020/04/15/JC5a9A.png
 
 # 作业2：ECMA 中找到所有的类型（Type）
 
